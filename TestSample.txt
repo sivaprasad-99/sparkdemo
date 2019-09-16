@@ -1,0 +1,11 @@
+Hi How are you
+where are you now
+what error are you working
+Are there any warnings
+Under which apllication it involved
+In which project error has come
+if yes,how many warnings are there   
+what's the resolution time
+can we skip those warnings
+what's the error root cause
+downstream impact
