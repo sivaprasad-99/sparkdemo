@@ -42,7 +42,7 @@ for (String siva : collect) {
 	List<String> errorcollect = sivaRDD.collect();
 for (String line : errorcollect) {
 	System.out.println(line);
-
+// this is to print the each line containing error messsages.
 }
 	
 	javaSparkContext.stop();
